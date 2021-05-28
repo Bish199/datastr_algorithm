@@ -1,3 +1,4 @@
+//Time complexity O(NlogN), Space:O(N)
 import java.util.*;
 class MergeIntervals {
     public int[][] merge(int[][] intervals) {
